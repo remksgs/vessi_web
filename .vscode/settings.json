@@ -1,0 +1,23 @@
+{
+    "svg.preview.background": "white",
+    "liveSassCompile.settings.formats": [
+  
+  
+      
+      {
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "~/../css",
+        "savePathReplacementPairs": null
+      }
+    ],
+    "liveSassCompile.settings.watchOnLaunch": false,
+    "liveSassCompile.settings.excludeList": [
+      "/**/node_modules/**",
+      "/.vscode/**",
+    ],
+    "liveSassCompile.settings.autoprefix": [
+  
+    ],
+    "liveServer.settings.useLocalIp": true
+  }
